@@ -77,3 +77,13 @@ h1{
 	font-weight: 500;
 	font-size: 11pt;
 }
+
+.party_bug_I{
+	display: inline-block;
+	background-color: #fbdc58;
+	padding: 1px 4px 1px 4px;
+	color: #fff;
+	border-radius: 3px;
+	font-weight: 500;
+	font-size: 11pt;
+}
