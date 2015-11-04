@@ -1,0 +1,3747 @@
+[
+  {
+    "Region":"Alabama 1",
+    "Party":"Republican",
+    "Name":"Bradley Byrne",
+    "DOB":"1955-02-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Alabama 2",
+    "Party":"Republican",
+    "Name":"Martha Roby",
+    "DOB":"1976-07-26",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Alabama 3",
+    "Party":"Republican",
+    "Name":"Mike D. Rogers",
+    "DOB":"1958-07-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Alabama 4",
+    "Party":"Republican",
+    "Name":"Robert Aderholt",
+    "DOB":"1965-07-22",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Alabama 5",
+    "Party":"Republican",
+    "Name":"Mo Brooks",
+    "DOB":"1954-04-29",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Alabama 6",
+    "Party":"Republican",
+    "Name":"Gary Palmer",
+    "DOB":"1954-05-14",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Alabama 7",
+    "Party":"Democratic",
+    "Name":"Terri Sewell",
+    "DOB":"1965-01-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Alaska At Large",
+    "Party":"Republican",
+    "Name":"Don Young",
+    "DOB":"1933-06-09",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Arizona 1",
+    "Party":"Democratic",
+    "Name":"Ann Kirkpatrick",
+    "DOB":"1950-03-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Arizona 2",
+    "Party":"Republican",
+    "Name":"Martha McSally",
+    "DOB":"1966-03-22",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Arizona 3",
+    "Party":"Democratic",
+    "Name":"Raúl Grijalva",
+    "DOB":"1948-02-19",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Arizona 4",
+    "Party":"Republican",
+    "Name":"Paul Gosar",
+    "DOB":"1958-11-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Arizona 5",
+    "Party":"Republican",
+    "Name":"Matt Salmon",
+    "DOB":"1958-01-12",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Arizona 6",
+    "Party":"Republican",
+    "Name":"David Schweikert",
+    "DOB":"1962-03-03",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Arizona 7",
+    "Party":"Democratic",
+    "Name":"Ruben Gallego",
+    "DOB":"1979-11-20",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Arizona 8",
+    "Party":"Republican",
+    "Name":"Trent Franks",
+    "DOB":"1957-06-19",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Arizona 9",
+    "Party":"Democratic",
+    "Name":"Kyrsten Sinema",
+    "DOB":"1976-07-12",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Arkansas 1",
+    "Party":"Republican",
+    "Name":"Rick Crawford",
+    "DOB":"1966-01-22",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Arkansas 2",
+    "Party":"Republican",
+    "Name":"French Hill",
+    "DOB":"1956-12-05",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Arkansas 3",
+    "Party":"Republican",
+    "Name":"Steve Womack",
+    "DOB":"1957-02-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Arkansas 4",
+    "Party":"Republican",
+    "Name":"Bruce Westerman",
+    "DOB":"1967-11-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 1",
+    "Party":"Republican",
+    "Name":"Doug LaMalfa",
+    "DOB":"1960-07-02",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 2",
+    "Party":"Democratic",
+    "Name":"Jared Huffman",
+    "DOB":"1964-02-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 3",
+    "Party":"Democratic",
+    "Name":"John Garamendi",
+    "DOB":"1945-01-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 4",
+    "Party":"Republican",
+    "Name":"Tom McClintock",
+    "DOB":"1956-07-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 5",
+    "Party":"Democratic",
+    "Name":"Mike Thompson",
+    "DOB":"1951-01-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 6",
+    "Party":"Democratic",
+    "Name":"Doris Matsui",
+    "DOB":"1944-09-25",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 7",
+    "Party":"Democratic",
+    "Name":"Ami Bera",
+    "DOB":"1965-03-02",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 8",
+    "Party":"Republican",
+    "Name":"Paul Cook",
+    "DOB":"1943-03-03",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 9",
+    "Party":"Democratic",
+    "Name":"Jerry McNerney",
+    "DOB":"1951-06-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 10",
+    "Party":"Republican",
+    "Name":"Jeff Denham",
+    "DOB":"1967-07-29",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 11",
+    "Party":"Democratic",
+    "Name":"Mark DeSaulnier",
+    "DOB":"1952-03-31",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 12",
+    "Party":"Democratic",
+    "Name":"Nancy Pelosi",
+    "DOB":"1940-03-26",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 13",
+    "Party":"Democratic",
+    "Name":"Barbara Lee",
+    "DOB":"1946-07-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 14",
+    "Party":"Democratic",
+    "Name":"Jackie Speier",
+    "DOB":"1950-05-14",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 15",
+    "Party":"Democratic",
+    "Name":"Eric Swalwell",
+    "DOB":"1980-11-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 16",
+    "Party":"Democratic",
+    "Name":"Jim Costa",
+    "DOB":"1952-04-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 17",
+    "Party":"Democratic",
+    "Name":"Mike Honda",
+    "DOB":"1941-06-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 18",
+    "Party":"Democratic",
+    "Name":"Anna Eshoo",
+    "DOB":"1942-12-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 19",
+    "Party":"Democratic",
+    "Name":"Zoe Lofgren",
+    "DOB":"1947-12-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 20",
+    "Party":"Democratic",
+    "Name":"Sam Farr",
+    "DOB":"1941-07-04",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 21",
+    "Party":"Republican",
+    "Name":"David Valadao",
+    "DOB":"1977-04-14",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 22",
+    "Party":"Republican",
+    "Name":"Devin Nunes",
+    "DOB":"1973-10-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 23",
+    "Party":"Republican",
+    "Name":"Kevin McCarthy",
+    "DOB":"1965-01-26",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 24",
+    "Party":"Democratic",
+    "Name":"Lois Capps",
+    "DOB":"1938-01-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 25",
+    "Party":"Republican",
+    "Name":"Steve Knight",
+    "DOB":"1966-12-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 26",
+    "Party":"Democratic",
+    "Name":"Julia Brownley",
+    "DOB":"1952-08-28",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 27",
+    "Party":"Democratic",
+    "Name":"Judy Chu",
+    "DOB":"1953-07-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 28",
+    "Party":"Democratic",
+    "Name":"Adam Schiff",
+    "DOB":"1960-06-20",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 29",
+    "Party":"Democratic",
+    "Name":"Tony Cardenas",
+    "DOB":"1963-03-31",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 30",
+    "Party":"Democratic",
+    "Name":"Brad Sherman",
+    "DOB":"1954-10-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 31",
+    "Party":"Democratic",
+    "Name":"Pete Aguilar",
+    "DOB":"1979-06-19",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 32",
+    "Party":"Democratic",
+    "Name":"Grace Napolitano",
+    "DOB":"1936-12-04",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 33",
+    "Party":"Democratic",
+    "Name":"Ted Lieu",
+    "DOB":"1969-03-29",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 34",
+    "Party":"Democratic",
+    "Name":"Xavier Becerra",
+    "DOB":"1958-01-26",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 35",
+    "Party":"Democratic",
+    "Name":"Norma Torres",
+    "DOB":"1965-04-04",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 36",
+    "Party":"Democratic",
+    "Name":"Raul Ruiz",
+    "DOB":"1972-08-25",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 37",
+    "Party":"Democratic",
+    "Name":"Karen Bass",
+    "DOB":"1953-10-03",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 38",
+    "Party":"Democratic",
+    "Name":"Linda Sanchez",
+    "DOB":"1969-01-28",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 39",
+    "Party":"Republican",
+    "Name":"Ed Royce",
+    "DOB":"1951-10-12",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 40",
+    "Party":"Democratic",
+    "Name":"Lucille Roybal-Allard",
+    "DOB":"1941-06-12",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 41",
+    "Party":"Democratic",
+    "Name":"Mark Takano",
+    "DOB":"1960-12-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 42",
+    "Party":"Republican",
+    "Name":"Ken Calvert",
+    "DOB":"1953-06-08",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 43",
+    "Party":"Democratic",
+    "Name":"Maxine Waters",
+    "DOB":"1938-08-15",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 44",
+    "Party":"Democratic",
+    "Name":"Janice Hahn",
+    "DOB":"1952-03-30",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 45",
+    "Party":"Republican",
+    "Name":"Mimi Walters",
+    "DOB":"1962-05-14",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 46",
+    "Party":"Democratic",
+    "Name":"Loretta Sanchez",
+    "DOB":"1960-01-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 47",
+    "Party":"Democratic",
+    "Name":"Alan Lowenthal",
+    "DOB":"1941-03-08",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 48",
+    "Party":"Republican",
+    "Name":"Dana Rohrabacher",
+    "DOB":"1947-06-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 49",
+    "Party":"Republican",
+    "Name":"Darrell Issa",
+    "DOB":"1953-11-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 50",
+    "Party":"Republican",
+    "Name":"Duncan D. Hunter",
+    "DOB":"1976-12-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 51",
+    "Party":"Democratic",
+    "Name":"Juan Vargas",
+    "DOB":"1961-03-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 52",
+    "Party":"Democratic",
+    "Name":"Scott Peters",
+    "DOB":"1958-06-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California 53",
+    "Party":"Democratic",
+    "Name":"Susan A. Davis",
+    "DOB":"1944-04-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Colorado 1",
+    "Party":"Democratic",
+    "Name":"Diana DeGette",
+    "DOB":"1957-07-29",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Colorado 2",
+    "Party":"Democratic",
+    "Name":"Jared Polis",
+    "DOB":"1975-05-12",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Colorado 3",
+    "Party":"Republican",
+    "Name":"Scott Tipton",
+    "DOB":"1956-11-09",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Colorado 4",
+    "Party":"Republican",
+    "Name":"Ken Buck",
+    "DOB":"1959-02-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Colorado 5",
+    "Party":"Republican",
+    "Name":"Doug Lamborn",
+    "DOB":"1954-05-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Colorado 6",
+    "Party":"Republican",
+    "Name":"Mike Coffman",
+    "DOB":"1955-03-19",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Colorado 7",
+    "Party":"Democratic",
+    "Name":"Ed Perlmutter",
+    "DOB":"1953-05-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Connecticut 1",
+    "Party":"Democratic",
+    "Name":"John B. Larson",
+    "DOB":"1948-07-22",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Connecticut 2",
+    "Party":"Democratic",
+    "Name":"Joe Courtney",
+    "DOB":"1953-04-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Connecticut 3",
+    "Party":"Democratic",
+    "Name":"Rosa DeLauro",
+    "DOB":"1943-03-02",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Connecticut 4",
+    "Party":"Democratic",
+    "Name":"Jim Himes",
+    "DOB":"1966-07-05",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Connecticut 5",
+    "Party":"Democratic",
+    "Name":"Elizabeth Esty",
+    "DOB":"1959-08-25",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Delaware At Large",
+    "Party":"Democratic",
+    "Name":"John Carney",
+    "DOB":"1956-05-20",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 1",
+    "Party":"Republican",
+    "Name":"Jeff Miller",
+    "DOB":"1959-06-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 2",
+    "Party":"Democratic",
+    "Name":"Gwen Graham",
+    "DOB":"1963-01-31",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 3",
+    "Party":"Republican",
+    "Name":"Ted Yoho",
+    "DOB":"1955-04-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 4",
+    "Party":"Republican",
+    "Name":"Ander Crenshaw",
+    "DOB":"1944-09-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 5",
+    "Party":"Democratic",
+    "Name":"Corrine Brown",
+    "DOB":"1946-11-11",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 6",
+    "Party":"Republican",
+    "Name":"Ron DeSantis",
+    "DOB":"1978-09-14",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 7",
+    "Party":"Republican",
+    "Name":"John Mica",
+    "DOB":"1943-01-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 8",
+    "Party":"Republican",
+    "Name":"Bill Posey",
+    "DOB":"1947-12-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 9",
+    "Party":"Democratic",
+    "Name":"Alan Grayson",
+    "DOB":"1958-03-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 10",
+    "Party":"Republican",
+    "Name":"Daniel Webster",
+    "DOB":"1949-04-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 11",
+    "Party":"Republican",
+    "Name":"Rich Nugent",
+    "DOB":"1951-05-26",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 12",
+    "Party":"Republican",
+    "Name":"Gus Bilirakis",
+    "DOB":"1963-02-08",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 13",
+    "Party":"Republican",
+    "Name":"David Jolly",
+    "DOB":"1972-10-31",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 14",
+    "Party":"Democratic",
+    "Name":"Kathy Castor",
+    "DOB":"1966-08-20",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 15",
+    "Party":"Republican",
+    "Name":"Dennis A. Ross",
+    "DOB":"1959-10-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 16",
+    "Party":"Republican",
+    "Name":"Vern Buchanan",
+    "DOB":"1951-05-08",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 17",
+    "Party":"Republican",
+    "Name":"Tom J. Rooney",
+    "DOB":"1970-11-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 18",
+    "Party":"Democratic",
+    "Name":"Patrick Murphy",
+    "DOB":"1983-03-30",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 19",
+    "Party":"Republican",
+    "Name":"Curt Clawson",
+    "DOB":"1959-09-28",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 20",
+    "Party":"Democratic",
+    "Name":"Alcee Hastings",
+    "DOB":"1936-09-05",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 21",
+    "Party":"Democratic",
+    "Name":"Ted Deutch",
+    "DOB":"1966-05-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 22",
+    "Party":"Democratic",
+    "Name":"Lois Frankel",
+    "DOB":"1948-05-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 23",
+    "Party":"Democratic",
+    "Name":"Debbie Wasserman Schultz",
+    "DOB":"1966-09-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 24",
+    "Party":"Democratic",
+    "Name":"Frederica Wilson",
+    "DOB":"1942-11-05",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 25",
+    "Party":"Republican",
+    "Name":"Mario Diaz-Balart",
+    "DOB":"1961-09-25",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 26",
+    "Party":"Republican",
+    "Name":"Carlos Curbelo",
+    "DOB":"1980-03-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Florida 27",
+    "Party":"Republican",
+    "Name":"Ileana Ros-Lehtinen",
+    "DOB":"1952-07-15",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Georgia 1",
+    "Party":"Republican",
+    "Name":"Buddy Carter",
+    "DOB":"1957-09-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Georgia 2",
+    "Party":"Democratic",
+    "Name":"Sanford Bishop",
+    "DOB":"1947-02-04",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Georgia 3",
+    "Party":"Republican",
+    "Name":"Lynn Westmoreland",
+    "DOB":"1950-04-02",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Georgia 4",
+    "Party":"Democratic",
+    "Name":"Hank Johnson",
+    "DOB":"1954-10-02",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Georgia 5",
+    "Party":"Democratic",
+    "Name":"John R. Lewis",
+    "DOB":"1940-02-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Georgia 6",
+    "Party":"Republican",
+    "Name":"Tom Price",
+    "DOB":"1954-10-08",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Georgia 7",
+    "Party":"Republican",
+    "Name":"Rob Woodall",
+    "DOB":"1970-02-11",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Georgia 8",
+    "Party":"Republican",
+    "Name":"Austin Scott",
+    "DOB":"1969-12-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Georgia 9",
+    "Party":"Republican",
+    "Name":"Doug Collins",
+    "DOB":"1966-08-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Georgia 10",
+    "Party":"Republican",
+    "Name":"Jody Hice",
+    "DOB":"1960-04-22",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Georgia 11",
+    "Party":"Republican",
+    "Name":"Barry Loudermilk",
+    "DOB":"1963-12-22",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Georgia 12",
+    "Party":"Republican",
+    "Name":"Rick W. Allen",
+    "DOB":"1951-11-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Georgia 13",
+    "Party":"Democratic",
+    "Name":"David Scott",
+    "DOB":"1946-06-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Georgia 14",
+    "Party":"Republican",
+    "Name":"Tom Graves",
+    "DOB":"1970-02-03",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Hawaii 1",
+    "Party":"Democratic",
+    "Name":"Mark Takai",
+    "DOB":"1967-07-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Hawaii 2",
+    "Party":"Democratic",
+    "Name":"Tulsi Gabbard",
+    "DOB":"1981-04-12",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Idaho 1",
+    "Party":"Republican",
+    "Name":"Raúl Labrador",
+    "DOB":"1967-12-08",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Idaho 2",
+    "Party":"Republican",
+    "Name":"Mike Simpson",
+    "DOB":"1950-09-08",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 1",
+    "Party":"Democratic",
+    "Name":"Bobby Rush",
+    "DOB":"1946-11-23",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 2",
+    "Party":"Democratic",
+    "Name":"Robin Kelly",
+    "DOB":"1956-04-30",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 3",
+    "Party":"Democratic",
+    "Name":"Dan Lipinski",
+    "DOB":"1966-07-15",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 4",
+    "Party":"Democratic",
+    "Name":"Luis Gutiérrez",
+    "DOB":"1953-12-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 5",
+    "Party":"Democratic",
+    "Name":"Michael Quigley",
+    "DOB":"1958-10-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 6",
+    "Party":"Republican",
+    "Name":"Peter Roskam",
+    "DOB":"1961-09-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 7",
+    "Party":"Democratic",
+    "Name":"Danny K. Davis",
+    "DOB":"1941-09-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 8",
+    "Party":"Democratic",
+    "Name":"Tammy Duckworth",
+    "DOB":"1968-03-12",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 9",
+    "Party":"Democratic",
+    "Name":"Jan Schakowsky",
+    "DOB":"1944-05-26",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 10",
+    "Party":"Republican",
+    "Name":"Robert Dold",
+    "DOB":"1969-06-23",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 11",
+    "Party":"Democratic",
+    "Name":"Bill Foster",
+    "DOB":"1955-10-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 12",
+    "Party":"Republican",
+    "Name":"Mike Bost",
+    "DOB":"1960-12-30",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 13",
+    "Party":"Republican",
+    "Name":"Rodney L. Davis",
+    "DOB":"1970-01-05",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 14",
+    "Party":"Republican",
+    "Name":"Randy Hultgren",
+    "DOB":"1966-03-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 15",
+    "Party":"Republican",
+    "Name":"John Shimkus",
+    "DOB":"1958-02-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 16",
+    "Party":"Republican",
+    "Name":"Adam Kinzinger",
+    "DOB":"1978-02-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 17",
+    "Party":"Democratic",
+    "Name":"Cheri Bustos",
+    "DOB":"1961-10-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Illinois 18",
+    "Party":"Republican",
+    "Name":"Darin LaHood",
+    "DOB":"1968-07-05",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Indiana 1",
+    "Party":"Democratic",
+    "Name":"Pete Visclosky",
+    "DOB":"1949-08-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Indiana 2",
+    "Party":"Republican",
+    "Name":"Jackie Walorski",
+    "DOB":"1963-08-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Indiana 3",
+    "Party":"Republican",
+    "Name":"Marlin Stutzman",
+    "DOB":"1976-08-31",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Indiana 4",
+    "Party":"Republican",
+    "Name":"Todd Rokita",
+    "DOB":"1970-02-09",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Indiana 5",
+    "Party":"Republican",
+    "Name":"Susan Brooks",
+    "DOB":"1960-08-25",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Indiana 6",
+    "Party":"Republican",
+    "Name":"Luke Messer",
+    "DOB":"1969-02-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Indiana 7",
+    "Party":"Democratic",
+    "Name":"André Carson",
+    "DOB":"1974-10-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Indiana 8",
+    "Party":"Republican",
+    "Name":"Larry Bucshon",
+    "DOB":"1962-05-31",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Indiana 9",
+    "Party":"Republican",
+    "Name":"Todd Young",
+    "DOB":"1972-08-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Iowa 1",
+    "Party":"Republican",
+    "Name":"Rod Blum",
+    "DOB":"1955-04-26",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Iowa 2",
+    "Party":"Democratic",
+    "Name":"David Loebsack",
+    "DOB":"1952-12-23",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Iowa 3",
+    "Party":"Republican",
+    "Name":"David Young",
+    "DOB":"1968-05-11",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Iowa 4",
+    "Party":"Republican",
+    "Name":"Steve King",
+    "DOB":"1949-05-28",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Kansas 1",
+    "Party":"Republican",
+    "Name":"Tim Huelskamp",
+    "DOB":"1968-11-11",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Kansas 2",
+    "Party":"Republican",
+    "Name":"Lynn Jenkins",
+    "DOB":"1963-06-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Kansas 3",
+    "Party":"Republican",
+    "Name":"Kevin Yoder",
+    "DOB":"1976-01-08",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Kansas 4",
+    "Party":"Republican",
+    "Name":"Mike Pompeo",
+    "DOB":"1963-12-30",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Kentucky 1",
+    "Party":"Republican",
+    "Name":"Ed Whitfield",
+    "DOB":"1943-05-25",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Kentucky 2",
+    "Party":"Republican",
+    "Name":"Brett Guthrie",
+    "DOB":"1964-02-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Kentucky 3",
+    "Party":"Democratic",
+    "Name":"John Yarmuth",
+    "DOB":"1947-11-04",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Kentucky 4",
+    "Party":"Republican",
+    "Name":"Thomas Massie",
+    "DOB":"1971-01-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Kentucky 5",
+    "Party":"Republican",
+    "Name":"Hal Rogers",
+    "DOB":"1937-12-31",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Kentucky 6",
+    "Party":"Republican",
+    "Name":"Andy Barr",
+    "DOB":"1973-07-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Louisiana 1",
+    "Party":"Republican",
+    "Name":"Steve Scalise",
+    "DOB":"1965-10-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Louisiana 2",
+    "Party":"Democratic",
+    "Name":"Cedric Richmond",
+    "DOB":"1973-09-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Louisiana 3",
+    "Party":"Republican",
+    "Name":"Charles Boustany",
+    "DOB":"1956-02-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Louisiana 4",
+    "Party":"Republican",
+    "Name":"John C. Fleming",
+    "DOB":"1951-07-05",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Louisiana 5",
+    "Party":"Republican",
+    "Name":"Ralph Abraham",
+    "DOB":"1954-09-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Louisiana 6",
+    "Party":"Republican",
+    "Name":"Garret Graves",
+    "DOB":"1972-01-31",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Maine 1",
+    "Party":"Democratic",
+    "Name":"Chellie Pingree",
+    "DOB":"1955-04-02",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Maine 2",
+    "Party":"Republican",
+    "Name":"Bruce Poliquin",
+    "DOB":"1953-11-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Maryland 1",
+    "Party":"Republican",
+    "Name":"Andrew P. Harris",
+    "DOB":"1957-01-25",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Maryland 2",
+    "Party":"Democratic",
+    "Name":"Dutch Ruppersberger",
+    "DOB":"1946-01-31",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Maryland 3",
+    "Party":"Democratic",
+    "Name":"John Sarbanes",
+    "DOB":"1962-05-22",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Maryland 4",
+    "Party":"Democratic",
+    "Name":"Donna Edwards",
+    "DOB":"1958-06-28",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Maryland 5",
+    "Party":"Democratic",
+    "Name":"Steny Hoyer",
+    "DOB":"1939-06-14",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Maryland 6",
+    "Party":"Democratic",
+    "Name":"John K. Delaney",
+    "DOB":"1963-04-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Maryland 7",
+    "Party":"Democratic",
+    "Name":"Elijah Cummings",
+    "DOB":"1951-01-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Maryland 8",
+    "Party":"Democratic",
+    "Name":"Chris Van Hollen",
+    "DOB":"1959-01-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Massachusetts 1",
+    "Party":"Democratic",
+    "Name":"Richard Neal",
+    "DOB":"1949-02-14",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Massachusetts 2",
+    "Party":"Democratic",
+    "Name":"Jim McGovern",
+    "DOB":"1959-11-20",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Massachusetts 3",
+    "Party":"Democratic",
+    "Name":"Niki Tsongas",
+    "DOB":"1946-04-26",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Massachusetts 4",
+    "Party":"Democratic",
+    "Name":"Joe Kennedy",
+    "DOB":"1980-10-04",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Massachusetts 5",
+    "Party":"Democratic",
+    "Name":"Katherine Clark",
+    "DOB":"1963-07-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Massachusetts 6",
+    "Party":"Democratic",
+    "Name":"Seth Moulton",
+    "DOB":"1978-10-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Massachusetts 7",
+    "Party":"Democratic",
+    "Name":"Mike Capuano",
+    "DOB":"1952-01-09",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Massachusetts 8",
+    "Party":"Democratic",
+    "Name":"Stephen F. Lynch",
+    "DOB":"1955-03-31",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Massachusetts 9",
+    "Party":"Democratic",
+    "Name":"William R. Keating",
+    "DOB":"1952-09-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Michigan 1",
+    "Party":"Republican",
+    "Name":"Dan Benishek",
+    "DOB":"1952-04-20",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Michigan 2",
+    "Party":"Republican",
+    "Name":"Bill Huizenga",
+    "DOB":"1969-01-31",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Michigan 3",
+    "Party":"Republican",
+    "Name":"Justin Amash",
+    "DOB":"1980-04-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Michigan 4",
+    "Party":"Republican",
+    "Name":"John Moolenaar",
+    "DOB":"1961-05-08",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Michigan 5",
+    "Party":"Democratic",
+    "Name":"Dan Kildee",
+    "DOB":"1958-08-11",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Michigan 6",
+    "Party":"Republican",
+    "Name":"Fred Upton",
+    "DOB":"1953-04-23",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Michigan 7",
+    "Party":"Republican",
+    "Name":"Tim Walberg",
+    "DOB":"1951-04-12",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Michigan 8",
+    "Party":"Republican",
+    "Name":"Mike Bishop",
+    "DOB":"1967-03-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Michigan 9",
+    "Party":"Democratic",
+    "Name":"Sander Levin",
+    "DOB":"1931-09-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Michigan 10",
+    "Party":"Republican",
+    "Name":"Candice Miller",
+    "DOB":"1954-05-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Michigan 11",
+    "Party":"Republican",
+    "Name":"David Trott",
+    "DOB":"1960-10-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Michigan 12",
+    "Party":"Democratic",
+    "Name":"Deborah Dingell",
+    "DOB":"1953-11-23",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Michigan 13",
+    "Party":"Democratic",
+    "Name":"John Conyers",
+    "DOB":"1929-05-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Michigan 14",
+    "Party":"Democratic",
+    "Name":"Brenda Lawrence",
+    "DOB":"1954-10-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Minnesota 1",
+    "Party":"Democratic",
+    "Name":"Tim Walz",
+    "DOB":"1964-04-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Minnesota 2",
+    "Party":"Republican",
+    "Name":"John Kline",
+    "DOB":"1947-09-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Minnesota 3",
+    "Party":"Republican",
+    "Name":"Erik Paulsen",
+    "DOB":"1965-05-14",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Minnesota 4",
+    "Party":"Democratic",
+    "Name":"Betty McCollum",
+    "DOB":"1954-07-12",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Minnesota 5",
+    "Party":"Democratic",
+    "Name":"Keith Ellison",
+    "DOB":"1963-08-04",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Minnesota 6",
+    "Party":"Republican",
+    "Name":"Tom Emmer",
+    "DOB":"1961-03-03",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Minnesota 7",
+    "Party":"Democratic",
+    "Name":"Collin Peterson",
+    "DOB":"1944-06-29",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Minnesota 8",
+    "Party":"Democratic",
+    "Name":"Rick Nolan",
+    "DOB":"1943-12-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Mississippi 1",
+    "Party":"Republican",
+    "Name":"Trent Kelly",
+    "DOB":"1966-03-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Mississippi 2",
+    "Party":"Democratic",
+    "Name":"Bennie Thompson",
+    "DOB":"1948-01-28",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Mississippi 3",
+    "Party":"Republican",
+    "Name":"Gregg Harper",
+    "DOB":"1956-06-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Mississippi 4",
+    "Party":"Republican",
+    "Name":"Steven Palazzo",
+    "DOB":"1970-02-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Missouri 1",
+    "Party":"Democratic",
+    "Name":"William L. Clay, Jr.",
+    "DOB":"1956-07-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Missouri 2",
+    "Party":"Republican",
+    "Name":"Ann Wagner",
+    "DOB":"1962-09-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Missouri 3",
+    "Party":"Republican",
+    "Name":"Blaine Luetkemeyer",
+    "DOB":"1952-05-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Missouri 4",
+    "Party":"Republican",
+    "Name":"Vicky Hartzler",
+    "DOB":"1960-10-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Missouri 5",
+    "Party":"Democratic",
+    "Name":"Emanuel Cleaver",
+    "DOB":"1944-10-26",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Missouri 6",
+    "Party":"Republican",
+    "Name":"Sam Graves",
+    "DOB":"1963-11-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Missouri 7",
+    "Party":"Republican",
+    "Name":"Billy Long",
+    "DOB":"1955-08-11",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Missouri 8",
+    "Party":"Republican",
+    "Name":"Jason T. Smith",
+    "DOB":"1980-06-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Montana AL",
+    "Party":"Republican",
+    "Name":"Ryan Zinke",
+    "DOB":"1961-11-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Nebraska 1",
+    "Party":"Republican",
+    "Name":"Jeff Fortenberry",
+    "DOB":"1960-12-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Nebraska 2",
+    "Party":"Democratic",
+    "Name":"Brad Ashford",
+    "DOB":"1949-11-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Nebraska 3",
+    "Party":"Republican",
+    "Name":"Adrian M. Smith",
+    "DOB":"1970-12-19",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Nevada 1",
+    "Party":"Democratic",
+    "Name":"Dina Titus",
+    "DOB":"1950-05-23",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Nevada 2",
+    "Party":"Republican",
+    "Name":"Mark Amodei",
+    "DOB":"1958-06-12",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Nevada 3",
+    "Party":"Republican",
+    "Name":"Joe Heck",
+    "DOB":"1961-03-03",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Nevada 4",
+    "Party":"Republican",
+    "Name":"Cresent Hardy",
+    "DOB":"1957-06-23",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Hampshire 1",
+    "Party":"Republican",
+    "Name":"Frank Guinta",
+    "DOB":"1970-09-26",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Hampshire 2",
+    "Party":"Democratic",
+    "Name":"Ann McLane Kuster",
+    "DOB":"1956-09-05",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Jersey 1",
+    "Party":"Democratic",
+    "Name":"Donald Norcross",
+    "DOB":"1958-12-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Jersey 2",
+    "Party":"Republican",
+    "Name":"Frank LoBiondo",
+    "DOB":"1946-05-12",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Jersey 3",
+    "Party":"Republican",
+    "Name":"Tom MacArthur",
+    "DOB":"1960-10-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Jersey 4",
+    "Party":"Republican",
+    "Name":"Chris H. Smith",
+    "DOB":"1953-03-04",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Jersey 5",
+    "Party":"Republican",
+    "Name":"Scott Garrett",
+    "DOB":"1959-07-09",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Jersey 6",
+    "Party":"Democratic",
+    "Name":"Frank Pallone",
+    "DOB":"1951-10-30",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Jersey 7",
+    "Party":"Republican",
+    "Name":"Leonard Lance",
+    "DOB":"1952-06-25",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Jersey 8",
+    "Party":"Democratic",
+    "Name":"Albio Sires",
+    "DOB":"1951-01-26",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Jersey 9",
+    "Party":"Democratic",
+    "Name":"Bill Pascrell",
+    "DOB":"1937-01-25",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Jersey 10",
+    "Party":"Democratic",
+    "Name":"Donald Payne",
+    "DOB":"1958-12-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Jersey 11",
+    "Party":"Republican",
+    "Name":"Rodney Frelinghuysen",
+    "DOB":"1946-04-29",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Jersey 12",
+    "Party":"Democratic",
+    "Name":"Bonnie Watson Coleman",
+    "DOB":"1945-02-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Mexico 1",
+    "Party":"Democratic",
+    "Name":"Michelle Lujan Grisham",
+    "DOB":"1959-10-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Mexico 2",
+    "Party":"Republican",
+    "Name":"Steve Pearce",
+    "DOB":"1947-08-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New Mexico 3",
+    "Party":"Democratic",
+    "Name":"Ben R. Luján",
+    "DOB":"1972-06-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 1",
+    "Party":"Republican",
+    "Name":"Lee Zeldin",
+    "DOB":"1980-01-30",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 2",
+    "Party":"Republican",
+    "Name":"Peter T. King",
+    "DOB":"1944-04-05",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 3",
+    "Party":"Democratic",
+    "Name":"Steve Israel",
+    "DOB":"1958-05-30",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 4",
+    "Party":"Democratic",
+    "Name":"Kathleen Rice",
+    "DOB":"1965-02-15",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 5",
+    "Party":"Democratic",
+    "Name":"Gregory Meeks",
+    "DOB":"1953-09-25",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 6",
+    "Party":"Democratic",
+    "Name":"Grace Meng",
+    "DOB":"1975-10-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 7",
+    "Party":"Democratic",
+    "Name":"Nydia Velázquez",
+    "DOB":"1953-03-28",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 8",
+    "Party":"Democratic",
+    "Name":"Hakeem Jeffries",
+    "DOB":"1970-08-04",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 9",
+    "Party":"Democratic",
+    "Name":"Yvette Clarke",
+    "DOB":"1964-11-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 10",
+    "Party":"Democratic",
+    "Name":"Jerrold Nadler",
+    "DOB":"1947-06-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 11",
+    "Party":"Republican",
+    "Name":"Dan Donovan",
+    "DOB":"1956-11-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 12",
+    "Party":"Democratic",
+    "Name":"Carolyn B. Maloney",
+    "DOB":"1946-02-19",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 13",
+    "Party":"Democratic",
+    "Name":"Charles B. Rangel",
+    "DOB":"1930-06-11",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 14",
+    "Party":"Democratic",
+    "Name":"Joseph Crowley",
+    "DOB":"1962-03-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 15",
+    "Party":"Democratic",
+    "Name":"José Serrano",
+    "DOB":"1943-10-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 16",
+    "Party":"Democratic",
+    "Name":"Eliot Engel",
+    "DOB":"1947-02-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 17",
+    "Party":"Democratic",
+    "Name":"Nita Lowey",
+    "DOB":"1937-07-05",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 18",
+    "Party":"Democratic",
+    "Name":"Sean Patrick Maloney",
+    "DOB":"1966-07-30",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 19",
+    "Party":"Republican",
+    "Name":"Chris Gibson",
+    "DOB":"1964-05-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 20",
+    "Party":"Democratic",
+    "Name":"Paul Tonko",
+    "DOB":"1949-06-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 21",
+    "Party":"Republican",
+    "Name":"Elise Stefanik",
+    "DOB":"1984-07-02",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 22",
+    "Party":"Republican",
+    "Name":"Richard L. Hanna",
+    "DOB":"1951-01-25",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 23",
+    "Party":"Republican",
+    "Name":"Tom Reed",
+    "DOB":"1971-11-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 24",
+    "Party":"Republican",
+    "Name":"John Katko",
+    "DOB":"1962-11-09",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 25",
+    "Party":"Democratic",
+    "Name":"Louise Slaughter",
+    "DOB":"1929-08-14",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 26",
+    "Party":"Democratic",
+    "Name":"Brian Higgins",
+    "DOB":"1959-10-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"New York 27",
+    "Party":"Republican",
+    "Name":"Chris Collins",
+    "DOB":"1950-05-20",
+    "Chamber":"House"
+  },
+  {
+    "Region":"North Carolina 1",
+    "Party":"Democratic",
+    "Name":"George K. Butterfield",
+    "DOB":"1947-04-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"North Carolina 2",
+    "Party":"Republican",
+    "Name":"Renee Ellmers",
+    "DOB":"1964-02-09",
+    "Chamber":"House"
+  },
+  {
+    "Region":"North Carolina 3",
+    "Party":"Republican",
+    "Name":"Walter B. Jones",
+    "DOB":"1943-02-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"North Carolina 4",
+    "Party":"Democratic",
+    "Name":"David E. Price",
+    "DOB":"1940-08-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"North Carolina 5",
+    "Party":"Republican",
+    "Name":"Virginia Foxx",
+    "DOB":"1943-06-29",
+    "Chamber":"House"
+  },
+  {
+    "Region":"North Carolina 6",
+    "Party":"Republican",
+    "Name":"Mark Walker",
+    "DOB":"1969-05-20",
+    "Chamber":"House"
+  },
+  {
+    "Region":"North Carolina 7",
+    "Party":"Republican",
+    "Name":"David Rouzer",
+    "DOB":"1972-02-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"North Carolina 8",
+    "Party":"Republican",
+    "Name":"Richard Hudson",
+    "DOB":"1971-11-04",
+    "Chamber":"House"
+  },
+  {
+    "Region":"North Carolina 9",
+    "Party":"Republican",
+    "Name":"Robert Pittenger",
+    "DOB":"1948-08-15",
+    "Chamber":"House"
+  },
+  {
+    "Region":"North Carolina 10",
+    "Party":"Republican",
+    "Name":"Patrick McHenry",
+    "DOB":"1975-10-22",
+    "Chamber":"House"
+  },
+  {
+    "Region":"North Carolina 11",
+    "Party":"Republican",
+    "Name":"Mark Meadows",
+    "DOB":"1959-07-28",
+    "Chamber":"House"
+  },
+  {
+    "Region":"North Carolina 12",
+    "Party":"Democratic",
+    "Name":"Alma Adams",
+    "DOB":"1946-05-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"North Carolina 13",
+    "Party":"Republican",
+    "Name":"George Holding",
+    "DOB":"1968-04-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"North Dakota At Large",
+    "Party":"Republican",
+    "Name":"Kevin Cramer",
+    "DOB":"1961-01-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 1",
+    "Party":"Republican",
+    "Name":"Steve Chabot",
+    "DOB":"1953-01-22",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 2",
+    "Party":"Republican",
+    "Name":"Brad Wenstrup",
+    "DOB":"1958-06-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 3",
+    "Party":"Democratic",
+    "Name":"Joyce Beatty",
+    "DOB":"1950-03-12",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 4",
+    "Party":"Republican",
+    "Name":"Jim Jordan",
+    "DOB":"1964-02-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 5",
+    "Party":"Republican",
+    "Name":"Bob Latta",
+    "DOB":"1956-04-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 6",
+    "Party":"Republican",
+    "Name":"Bill Johnson",
+    "DOB":"1954-11-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 7",
+    "Party":"Republican",
+    "Name":"Bob Gibbs",
+    "DOB":"1954-06-14",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 8",
+    "Party":"Republican",
+    "Name":"John Boehner",
+    "DOB":"1949-11-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 9",
+    "Party":"Democratic",
+    "Name":"Marcy Kaptur",
+    "DOB":"1946-06-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 10",
+    "Party":"Republican",
+    "Name":"Mike Turner",
+    "DOB":"1960-01-11",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 11",
+    "Party":"Democratic",
+    "Name":"Marcia Fudge",
+    "DOB":"1952-10-29",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 12",
+    "Party":"Republican",
+    "Name":"Pat Tiberi",
+    "DOB":"1962-10-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 13",
+    "Party":"Democratic",
+    "Name":"Tim Ryan",
+    "DOB":"1973-07-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 14",
+    "Party":"Republican",
+    "Name":"David Joyce",
+    "DOB":"1957-03-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 15",
+    "Party":"Republican",
+    "Name":"Steve Stivers",
+    "DOB":"1965-03-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Ohio 16",
+    "Party":"Republican",
+    "Name":"Jim Renacci",
+    "DOB":"1958-12-03",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Oklahoma 1",
+    "Party":"Republican",
+    "Name":"Jim Bridenstine",
+    "DOB":"1975-06-15",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Oklahoma 2",
+    "Party":"Republican",
+    "Name":"Markwayne Mullin",
+    "DOB":"1977-07-26",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Oklahoma 3",
+    "Party":"Republican",
+    "Name":"Frank D. Lucas",
+    "DOB":"1960-01-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Oklahoma 4",
+    "Party":"Republican",
+    "Name":"Tom Cole",
+    "DOB":"1949-04-28",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Oklahoma 5",
+    "Party":"Republican",
+    "Name":"Steve Russell",
+    "DOB":"1963-05-25",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Oregon 1",
+    "Party":"Democratic",
+    "Name":"Suzanne Bonamici",
+    "DOB":"1954-10-14",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Oregon 2",
+    "Party":"Republican",
+    "Name":"Greg Walden",
+    "DOB":"1957-01-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Oregon 3",
+    "Party":"Democratic",
+    "Name":"Earl Blumenauer",
+    "DOB":"1948-08-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Oregon 4",
+    "Party":"Democratic",
+    "Name":"Peter DeFazio",
+    "DOB":"1947-05-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Oregon 5",
+    "Party":"Democratic",
+    "Name":"Kurt Schrader",
+    "DOB":"1951-10-19",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 1",
+    "Party":"Democratic",
+    "Name":"Bob Brady",
+    "DOB":"1945-04-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 2",
+    "Party":"Democratic",
+    "Name":"Chaka Fattah",
+    "DOB":"1956-11-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 3",
+    "Party":"Republican",
+    "Name":"Mike Kelly",
+    "DOB":"1948-05-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 4",
+    "Party":"Republican",
+    "Name":"Scott Perry",
+    "DOB":"1962-05-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 5",
+    "Party":"Republican",
+    "Name":"Glenn Thompson",
+    "DOB":"1959-07-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 6",
+    "Party":"Republican",
+    "Name":"Ryan Costello",
+    "DOB":"1976-09-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 7",
+    "Party":"Republican",
+    "Name":"Pat Meehan",
+    "DOB":"1955-10-20",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 8",
+    "Party":"Republican",
+    "Name":"Mike Fitzpatrick",
+    "DOB":"1963-06-28",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 9",
+    "Party":"Republican",
+    "Name":"Bill Shuster",
+    "DOB":"1961-01-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 10",
+    "Party":"Republican",
+    "Name":"Tom Marino",
+    "DOB":"1952-08-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 11",
+    "Party":"Republican",
+    "Name":"Lou Barletta",
+    "DOB":"1956-01-28",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 12",
+    "Party":"Republican",
+    "Name":"Keith Rothfus",
+    "DOB":"1962-04-25",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 13",
+    "Party":"Democratic",
+    "Name":"Brendan F. Boyle",
+    "DOB":"1977-02-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 14",
+    "Party":"Democratic",
+    "Name":"Michael F. Doyle",
+    "DOB":"1953-08-05",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 15",
+    "Party":"Republican",
+    "Name":"Charlie Dent",
+    "DOB":"1960-05-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 16",
+    "Party":"Republican",
+    "Name":"Joe Pitts",
+    "DOB":"1939-10-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 17",
+    "Party":"Democratic",
+    "Name":"Matt Cartwright",
+    "DOB":"1961-05-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Pennsylvania 18",
+    "Party":"Republican",
+    "Name":"Timothy F. Murphy",
+    "DOB":"1952-09-11",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Rhode Island 1",
+    "Party":"Democratic",
+    "Name":"David Cicilline",
+    "DOB":"1961-07-15",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Rhode Island 2",
+    "Party":"Democratic",
+    "Name":"James Langevin",
+    "DOB":"1964-04-22",
+    "Chamber":"House"
+  },
+  {
+    "Region":"South Carolina 1",
+    "Party":"Republican",
+    "Name":"Mark Sanford",
+    "DOB":"1960-05-28",
+    "Chamber":"House"
+  },
+  {
+    "Region":"South Carolina 2",
+    "Party":"Republican",
+    "Name":"Joe Wilson",
+    "DOB":"1947-07-31",
+    "Chamber":"House"
+  },
+  {
+    "Region":"South Carolina 3",
+    "Party":"Republican",
+    "Name":"Jeff Duncan",
+    "DOB":"1966-01-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"South Carolina 4",
+    "Party":"Republican",
+    "Name":"Trey Gowdy",
+    "DOB":"1964-08-22",
+    "Chamber":"House"
+  },
+  {
+    "Region":"South Carolina 5",
+    "Party":"Republican",
+    "Name":"Mick Mulvaney",
+    "DOB":"1967-07-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"South Carolina 6",
+    "Party":"Democratic",
+    "Name":"Jim Clyburn",
+    "DOB":"1940-07-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"South Carolina 7",
+    "Party":"Republican",
+    "Name":"Tom Rice",
+    "DOB":"1957-08-04",
+    "Chamber":"House"
+  },
+  {
+    "Region":"South Dakota At Large",
+    "Party":"Republican",
+    "Name":"Kristi Noem",
+    "DOB":"1971-11-30",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Tennessee 1",
+    "Party":"Republican",
+    "Name":"Phil Roe",
+    "DOB":"1945-07-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Tennessee 2",
+    "Party":"Republican",
+    "Name":"Jimmy Duncan",
+    "DOB":"1947-07-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Tennessee 3",
+    "Party":"Republican",
+    "Name":"Chuck Fleischmann",
+    "DOB":"1962-10-11",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Tennessee 4",
+    "Party":"Republican",
+    "Name":"Scott DesJarlais",
+    "DOB":"1964-02-21",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Tennessee 5",
+    "Party":"Democratic",
+    "Name":"Jim Cooper",
+    "DOB":"1954-06-19",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Tennessee 6",
+    "Party":"Republican",
+    "Name":"Diane Black",
+    "DOB":"1951-01-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Tennessee 7",
+    "Party":"Republican",
+    "Name":"Marsha Blackburn",
+    "DOB":"1952-06-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Tennessee 8",
+    "Party":"Republican",
+    "Name":"Stephen Fincher",
+    "DOB":"1973-02-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Tennessee 9",
+    "Party":"Democratic",
+    "Name":"Steve Cohen",
+    "DOB":"1949-05-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 1",
+    "Party":"Republican",
+    "Name":"Louie Gohmert",
+    "DOB":"1953-08-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 2",
+    "Party":"Republican",
+    "Name":"Ted Poe",
+    "DOB":"1948-09-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 3",
+    "Party":"Republican",
+    "Name":"Sam Johnson",
+    "DOB":"1930-10-11",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 4",
+    "Party":"Republican",
+    "Name":"John Ratcliffe",
+    "DOB":"1965-10-20",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 5",
+    "Party":"Republican",
+    "Name":"Jeb Hensarling",
+    "DOB":"1957-05-29",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 6",
+    "Party":"Republican",
+    "Name":"Joe Barton",
+    "DOB":"1949-09-15",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 7",
+    "Party":"Republican",
+    "Name":"John Culberson",
+    "DOB":"1956-08-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 8",
+    "Party":"Republican",
+    "Name":"Kevin Brady",
+    "DOB":"1955-04-11",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 9",
+    "Party":"Democratic",
+    "Name":"Al Green",
+    "DOB":"1947-09-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 10",
+    "Party":"Republican",
+    "Name":"Michael McCaul",
+    "DOB":"1962-01-14",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 11",
+    "Party":"Republican",
+    "Name":"Mike Conaway",
+    "DOB":"1948-06-11",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 12",
+    "Party":"Republican",
+    "Name":"Kay Granger",
+    "DOB":"1943-01-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 13",
+    "Party":"Republican",
+    "Name":"Mac Thornberry",
+    "DOB":"1958-07-15",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 14",
+    "Party":"Republican",
+    "Name":"Randy Weber",
+    "DOB":"1953-07-02",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 15",
+    "Party":"Democratic",
+    "Name":"Rubén Hinojosa",
+    "DOB":"1940-08-20",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 16",
+    "Party":"Democratic",
+    "Name":"Beto O'Rourke",
+    "DOB":"1972-09-26",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 17",
+    "Party":"Republican",
+    "Name":"Bill Flores",
+    "DOB":"1954-02-25",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 18",
+    "Party":"Democratic",
+    "Name":"Sheila Jackson-Lee",
+    "DOB":"1950-01-12",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 19",
+    "Party":"Republican",
+    "Name":"Randy Neugebauer",
+    "DOB":"1949-12-24",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 20",
+    "Party":"Democratic",
+    "Name":"Joaquín Castro",
+    "DOB":"1974-09-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 21",
+    "Party":"Republican",
+    "Name":"Lamar S. Smith",
+    "DOB":"1947-11-19",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 22",
+    "Party":"Republican",
+    "Name":"Pete Olson",
+    "DOB":"1962-12-09",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 23",
+    "Party":"Republican",
+    "Name":"Will Hurd",
+    "DOB":"1977-08-19",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 24",
+    "Party":"Republican",
+    "Name":"Kenny Marchant",
+    "DOB":"1951-02-23",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 25",
+    "Party":"Republican",
+    "Name":"Roger Williams",
+    "DOB":"1949-09-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 26",
+    "Party":"Republican",
+    "Name":"Michael C. Burgess",
+    "DOB":"1950-12-23",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 27",
+    "Party":"Republican",
+    "Name":"Blake Farenthold",
+    "DOB":"1961-12-12",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 28",
+    "Party":"Democratic",
+    "Name":"Henry Cuellar",
+    "DOB":"1955-09-19",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 29",
+    "Party":"Democratic",
+    "Name":"Gene Green",
+    "DOB":"1947-10-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 30",
+    "Party":"Democratic",
+    "Name":"Eddie B. Johnson",
+    "DOB":"1935-12-03",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 31",
+    "Party":"Republican",
+    "Name":"John Carter",
+    "DOB":"1941-11-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 32",
+    "Party":"Republican",
+    "Name":"Pete Sessions",
+    "DOB":"1955-03-22",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 33",
+    "Party":"Democratic",
+    "Name":"Marc Veasey",
+    "DOB":"1971-01-03",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 34",
+    "Party":"Democratic",
+    "Name":"Filemon Vela",
+    "DOB":"1963-02-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 35",
+    "Party":"Democratic",
+    "Name":"Lloyd Doggett",
+    "DOB":"1946-10-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Texas 36",
+    "Party":"Republican",
+    "Name":"Brian Babin",
+    "DOB":"1948-03-23",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Utah 1",
+    "Party":"Republican",
+    "Name":"Rob Bishop",
+    "DOB":"1951-07-13",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Utah 2",
+    "Party":"Republican",
+    "Name":"Chris Stewart",
+    "DOB":"1960-07-15",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Utah 3",
+    "Party":"Republican",
+    "Name":"Jason Chaffetz",
+    "DOB":"1967-03-26",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Utah 4",
+    "Party":"Republican",
+    "Name":"Mia Love",
+    "DOB":"1975-12-06",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Vermont At Large",
+    "Party":"Democratic",
+    "Name":"Peter Welch",
+    "DOB":"1947-05-02",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Virginia 1",
+    "Party":"Republican",
+    "Name":"Rob Wittman",
+    "DOB":"1959-02-03",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Virginia 2",
+    "Party":"Republican",
+    "Name":"Scott Rigell",
+    "DOB":"1960-05-28",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Virginia 3",
+    "Party":"Democratic",
+    "Name":"Bobby Scott",
+    "DOB":"1947-04-30",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Virginia 4",
+    "Party":"Republican",
+    "Name":"Randy Forbes",
+    "DOB":"1952-02-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Virginia 5",
+    "Party":"Republican",
+    "Name":"Robert Hurt",
+    "DOB":"1969-06-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Virginia 6",
+    "Party":"Republican",
+    "Name":"Bob Goodlatte",
+    "DOB":"1952-09-22",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Virginia 7",
+    "Party":"Republican",
+    "Name":"Dave Brat",
+    "DOB":"1964-07-27",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Virginia 8",
+    "Party":"Democratic",
+    "Name":"Don Beyer",
+    "DOB":"1950-06-20",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Virginia 9",
+    "Party":"Republican",
+    "Name":"Morgan Griffith",
+    "DOB":"1958-03-15",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Virginia 10",
+    "Party":"Republican",
+    "Name":"Barbara Comstock",
+    "DOB":"1959-06-30",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Virginia 11",
+    "Party":"Democratic",
+    "Name":"Gerry Connolly",
+    "DOB":"1950-03-30",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Washington 1",
+    "Party":"Democratic",
+    "Name":"Suzan DelBene",
+    "DOB":"1962-02-17",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Washington 2",
+    "Party":"Democratic",
+    "Name":"Rick Larsen",
+    "DOB":"1965-06-15",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Washington 3",
+    "Party":"Republican",
+    "Name":"J. Herrera Beutler",
+    "DOB":"1978-11-03",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Washington 4",
+    "Party":"Republican",
+    "Name":"Dan Newhouse",
+    "DOB":"1955-07-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Washington 5",
+    "Party":"Republican",
+    "Name":"Cathy McMorris Rodgers",
+    "DOB":"1969-05-22",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Washington 6",
+    "Party":"Democratic",
+    "Name":"Derek Kilmer",
+    "DOB":"1974-01-01",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Washington 7",
+    "Party":"Democratic",
+    "Name":"Jim McDermott",
+    "DOB":"1936-12-28",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Washington 8",
+    "Party":"Republican",
+    "Name":"Dave Reichert",
+    "DOB":"1950-08-29",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Washington 9",
+    "Party":"Democratic",
+    "Name":"Adam Smith",
+    "DOB":"1965-06-15",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Washington 10",
+    "Party":"Democratic",
+    "Name":"Dennis Heck",
+    "DOB":"1952-07-29",
+    "Chamber":"House"
+  },
+  {
+    "Region":"West Virginia 1",
+    "Party":"Republican",
+    "Name":"David McKinley",
+    "DOB":"1947-03-28",
+    "Chamber":"House"
+  },
+  {
+    "Region":"West Virginia 2",
+    "Party":"Republican",
+    "Name":"Alex Mooney",
+    "DOB":"1971-06-07",
+    "Chamber":"House"
+  },
+  {
+    "Region":"West Virginia 3",
+    "Party":"Republican",
+    "Name":"Evan Jenkins",
+    "DOB":"1960-09-12",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Wisconsin 1",
+    "Party":"Republican",
+    "Name":"Paul Ryan",
+    "DOB":"1970-01-29",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Wisconsin 2",
+    "Party":"Democratic",
+    "Name":"Mark Pocan",
+    "DOB":"1964-08-14",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Wisconsin 3",
+    "Party":"Democratic",
+    "Name":"Ron Kind",
+    "DOB":"1963-03-16",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Wisconsin 4",
+    "Party":"Democratic",
+    "Name":"Gwen Moore",
+    "DOB":"1951-04-18",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Wisconsin 5",
+    "Party":"Republican",
+    "Name":"Jim Sensenbrenner",
+    "DOB":"1943-06-14",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Wisconsin 6",
+    "Party":"Republican",
+    "Name":"Glenn Grothman",
+    "DOB":"1955-07-03",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Wisconsin 7",
+    "Party":"Republican",
+    "Name":"Sean Duffy",
+    "DOB":"1971-10-03",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Wisconsin 8",
+    "Party":"Republican",
+    "Name":"Reid Ribble",
+    "DOB":"1956-04-05",
+    "Chamber":"House"
+  },
+  {
+    "Region":"Wyoming At Large",
+    "Party":"Republican",
+    "Name":"Cynthia Lummis",
+    "DOB":"1954-09-10",
+    "Chamber":"House"
+  },
+  {
+    "Region":"California",
+    "Party":"Democratic",
+    "Name":"Dianne Feinstein",
+    "DOB":"1933-06-22",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Iowa",
+    "Party":"Republican",
+    "Name":"Chuck Grassley",
+    "DOB":"1933-09-17",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Utah",
+    "Party":"Republican",
+    "Name":"Orrin Hatch",
+    "DOB":"1934-03-22",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Alabama",
+    "Party":"Republican",
+    "Name":"Richard Shelby",
+    "DOB":"1934-05-06",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Oklahoma",
+    "Party":"Republican",
+    "Name":"Jim Inhofe",
+    "DOB":"1934-11-17",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Kansas",
+    "Party":"Republican",
+    "Name":"Pat Roberts",
+    "DOB":"1936-04-20",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Maryland",
+    "Party":"Democratic",
+    "Name":"Barbara Mikulski",
+    "DOB":"1936-07-20",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Arizona",
+    "Party":"Republican",
+    "Name":"John McCain",
+    "DOB":"1936-08-29",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Mississippi",
+    "Party":"Republican",
+    "Name":"Thad Cochran",
+    "DOB":"1937-12-07",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Nevada",
+    "Party":"Democratic",
+    "Name":"Harry Reid",
+    "DOB":"1939-12-02",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Vermont",
+    "Party":"Democratic",
+    "Name":"Patrick Leahy",
+    "DOB":"1940-03-31",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Tennessee",
+    "Party":"Republican",
+    "Name":"Lamar Alexander",
+    "DOB":"1940-07-03",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"California",
+    "Party":"Democratic",
+    "Name":"Barbara Boxer",
+    "DOB":"1940-11-11",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Vermont",
+    "Party":"Independent[1]",
+    "Name":"Bernie Sanders",
+    "DOB":"1941-09-08",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Kentucky",
+    "Party":"Republican",
+    "Name":"Mitch McConnell",
+    "DOB":"1942-02-20",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Florida",
+    "Party":"Democratic",
+    "Name":"Bill Nelson",
+    "DOB":"1942-09-29",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Idaho",
+    "Party":"Republican",
+    "Name":"Jim Risch",
+    "DOB":"1943-05-03",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Indiana",
+    "Party":"Republican",
+    "Name":"Dan Coats",
+    "DOB":"1943-05-16",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Maryland",
+    "Party":"Democratic",
+    "Name":"Ben Cardin",
+    "DOB":"1943-10-05",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Wyoming",
+    "Party":"Republican",
+    "Name":"Mike Enzi",
+    "DOB":"1944-02-01",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Maine",
+    "Party":"Independent[1]",
+    "Name":"Angus King",
+    "DOB":"1944-03-31",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Illinois",
+    "Party":"Democratic",
+    "Name":"Dick Durbin",
+    "DOB":"1944-11-21",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Georgia",
+    "Party":"Republican",
+    "Name":"Johnny Isakson",
+    "DOB":"1944-12-28",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Connecticut",
+    "Party":"Democratic",
+    "Name":"Richard Blumenthal",
+    "DOB":"1946-02-13",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Massachusetts",
+    "Party":"Democratic",
+    "Name":"Ed Markey",
+    "DOB":"1946-07-11",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Alabama",
+    "Party":"Republican",
+    "Name":"Jeff Sessions",
+    "DOB":"1946-12-24",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Delaware",
+    "Party":"Democratic",
+    "Name":"Tom Carper",
+    "DOB":"1947-01-23",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"New Hampshire",
+    "Party":"Democratic",
+    "Name":"Jeanne Shaheen",
+    "DOB":"1947-01-28",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"West Virginia",
+    "Party":"Democratic",
+    "Name":"Joe Manchin",
+    "DOB":"1947-08-24",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Hawaii",
+    "Party":"Democratic",
+    "Name":"Mazie Hirono",
+    "DOB":"1947-11-03",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"New Mexico",
+    "Party":"Democratic",
+    "Name":"Tom Udall",
+    "DOB":"1948-05-18",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Oregon",
+    "Party":"Democratic",
+    "Name":"Ron Wyden",
+    "DOB":"1949-05-03",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Massachusetts",
+    "Party":"Democratic",
+    "Name":"Elizabeth Warren",
+    "DOB":"1949-06-22",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Rhode Island",
+    "Party":"Democratic",
+    "Name":"Jack Reed",
+    "DOB":"1949-11-12",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Georgia",
+    "Party":"Republican",
+    "Name":"David Perdue",
+    "DOB":"1949-12-10",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Missouri",
+    "Party":"Republican",
+    "Name":"Roy Blunt",
+    "DOB":"1950-01-10",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Michigan",
+    "Party":"Democratic",
+    "Name":"Debbie Stabenow",
+    "DOB":"1950-04-29",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Washington",
+    "Party":"Democratic",
+    "Name":"Patty Murray",
+    "DOB":"1950-10-11",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"New York",
+    "Party":"Democratic",
+    "Name":"Chuck Schumer",
+    "DOB":"1950-11-23",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Arkansas",
+    "Party":"Republican",
+    "Name":"John Boozman",
+    "DOB":"1950-12-10",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Nebraska",
+    "Party":"Republican",
+    "Name":"Deb Fischer",
+    "DOB":"1951-03-01",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Idaho",
+    "Party":"Republican",
+    "Name":"Mike Crapo",
+    "DOB":"1951-05-20",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Minnesota",
+    "Party":"Democratic",
+    "Name":"Al Franken",
+    "DOB":"1951-05-21",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Mississippi",
+    "Party":"Republican",
+    "Name":"Roger Wicker",
+    "DOB":"1951-07-05",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Texas",
+    "Party":"Republican",
+    "Name":"John Cornyn",
+    "DOB":"1952-02-02",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Wyoming",
+    "Party":"Republican",
+    "Name":"John Barrasso",
+    "DOB":"1952-07-21",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Tennessee",
+    "Party":"Republican",
+    "Name":"Bob Corker",
+    "DOB":"1952-08-24",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Ohio",
+    "Party":"Democratic",
+    "Name":"Sherrod Brown",
+    "DOB":"1952-11-09",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Maine",
+    "Party":"Republican",
+    "Name":"Susan Collins",
+    "DOB":"1952-12-07",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Missouri",
+    "Party":"Democratic",
+    "Name":"Claire McCaskill",
+    "DOB":"1953-07-24",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"West Virginia",
+    "Party":"Republican",
+    "Name":"Shelley Moore Capito",
+    "DOB":"1953-11-26",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"New Jersey",
+    "Party":"Democratic",
+    "Name":"Bob Menendez",
+    "DOB":"1954-01-01",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Kansas",
+    "Party":"Republican",
+    "Name":"Jerry Moran",
+    "DOB":"1954-05-29",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"South Dakota",
+    "Party":"Republican",
+    "Name":"Mike Rounds",
+    "DOB":"1954-10-24",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Virginia",
+    "Party":"Democratic",
+    "Name":"Mark Warner",
+    "DOB":"1954-12-15",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Wisconsin",
+    "Party":"Republican",
+    "Name":"Ron Johnson",
+    "DOB":"1955-04-08",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"South Carolina",
+    "Party":"Republican",
+    "Name":"Lindsey Graham",
+    "DOB":"1955-07-09",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Indiana",
+    "Party":"Democratic",
+    "Name":"Joe Donnelly",
+    "DOB":"1955-09-29",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Rhode Island",
+    "Party":"Democratic",
+    "Name":"Sheldon Whitehouse",
+    "DOB":"1955-10-20",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"North Dakota",
+    "Party":"Democratic",
+    "Name":"Heidi Heitkamp",
+    "DOB":"1955-10-30",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"North Carolina",
+    "Party":"Republican",
+    "Name":"Richard Burr",
+    "DOB":"1955-11-30",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Ohio",
+    "Party":"Republican",
+    "Name":"Rob Portman",
+    "DOB":"1955-12-19",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Montana",
+    "Party":"Democratic",
+    "Name":"Jon Tester",
+    "DOB":"1956-08-21",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Oregon",
+    "Party":"Democratic",
+    "Name":"Jeff Merkley",
+    "DOB":"1956-10-24",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"North Dakota",
+    "Party":"Republican",
+    "Name":"John Hoeven",
+    "DOB":"1957-03-13",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Alaska",
+    "Party":"Republican",
+    "Name":"Lisa Murkowski",
+    "DOB":"1957-05-22",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Louisiana",
+    "Party":"Republican",
+    "Name":"Bill Cassidy",
+    "DOB":"1957-09-28",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Virginia",
+    "Party":"Democratic",
+    "Name":"Tim Kaine",
+    "DOB":"1958-02-26",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Washington",
+    "Party":"Democratic",
+    "Name":"Maria Cantwell",
+    "DOB":"1958-10-13",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Michigan",
+    "Party":"Democratic",
+    "Name":"Gary Peters",
+    "DOB":"1958-12-01",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Illinois",
+    "Party":"Republican",
+    "Name":"Mark Kirk",
+    "DOB":"1959-09-15",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Pennsylvania",
+    "Party":"Democratic",
+    "Name":"Bob Casey, Jr.",
+    "DOB":"1960-04-13",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Nevada",
+    "Party":"Republican",
+    "Name":"Dean Heller",
+    "DOB":"1960-05-10",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Minnesota",
+    "Party":"Democratic",
+    "Name":"Amy Klobuchar",
+    "DOB":"1960-05-25",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"North Carolina",
+    "Party":"Republican",
+    "Name":"Thom Tillis",
+    "DOB":"1960-08-30",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"South Dakota",
+    "Party":"Republican",
+    "Name":"John Thune",
+    "DOB":"1961-01-07",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Louisiana",
+    "Party":"Republican",
+    "Name":"David Vitter",
+    "DOB":"1961-05-03",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Pennsylvania",
+    "Party":"Republican",
+    "Name":"Pat Toomey",
+    "DOB":"1961-11-17",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Wisconsin",
+    "Party":"Democratic",
+    "Name":"Tammy Baldwin",
+    "DOB":"1962-02-11",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Montana",
+    "Party":"Republican",
+    "Name":"Steve Daines",
+    "DOB":"1962-08-20",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Arizona",
+    "Party":"Republican",
+    "Name":"Jeff Flake",
+    "DOB":"1962-12-31",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Kentucky",
+    "Party":"Republican",
+    "Name":"Rand Paul",
+    "DOB":"1963-01-07",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Delaware",
+    "Party":"Democratic",
+    "Name":"Chris Coons",
+    "DOB":"1963-09-09",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Alaska",
+    "Party":"Republican",
+    "Name":"Dan Sullivan",
+    "DOB":"1964-11-13",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Colorado",
+    "Party":"Democratic",
+    "Name":"Michael Bennet",
+    "DOB":"1964-11-28",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"South Carolina",
+    "Party":"Republican",
+    "Name":"Tim Scott",
+    "DOB":"1965-09-19",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"New York",
+    "Party":"Democratic",
+    "Name":"Kirsten Gillibrand",
+    "DOB":"1966-12-09",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Oklahoma",
+    "Party":"Republican",
+    "Name":"James Lankford",
+    "DOB":"1968-03-04",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"New Hampshire",
+    "Party":"Republican",
+    "Name":"Kelly Ayotte",
+    "DOB":"1968-06-27",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"New Jersey",
+    "Party":"Democratic",
+    "Name":"Cory Booker",
+    "DOB":"1969-04-27",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Iowa",
+    "Party":"Republican",
+    "Name":"Joni Ernst",
+    "DOB":"1970-07-01",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Texas",
+    "Party":"Republican",
+    "Name":"Ted Cruz",
+    "DOB":"1970-12-22",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Florida",
+    "Party":"Republican",
+    "Name":"Marco Rubio",
+    "DOB":"1971-05-28",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Utah",
+    "Party":"Republican",
+    "Name":"Mike Lee",
+    "DOB":"1971-06-04",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"New Mexico",
+    "Party":"Democratic",
+    "Name":"Martin Heinrich",
+    "DOB":"1971-10-17",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Nebraska",
+    "Party":"Republican",
+    "Name":"Ben Sasse",
+    "DOB":"1972-02-22",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Hawaii",
+    "Party":"Democratic",
+    "Name":"Brian Schatz",
+    "DOB":"1972-10-20",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Connecticut",
+    "Party":"Democratic",
+    "Name":"Chris Murphy",
+    "DOB":"1973-08-03",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Colorado",
+    "Party":"Republican",
+    "Name":"Cory Gardner",
+    "DOB":"1974-08-22",
+    "Chamber":"Senate"
+  },
+  {
+    "Region":"Arkansas",
+    "Party":"Republican",
+    "Name":"Tom Cotton",
+    "DOB":"1977-05-13",
+    "Chamber":"Senate"
+  }
+]
