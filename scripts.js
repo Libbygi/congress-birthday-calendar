@@ -15,6 +15,39 @@
 	$.getJSON("data.json", function(data){
 		
 		console.log("Got data!");		
+
+		for(i=1; i<=12; i++){
+			calendar = $('<div class="calendar"></div>').appendTo($(".calendars"));
+
+			//At every month, going through member list to see who has bdays in that month
+
+			//[] that's an empty array
+		
+			var birthdays = [];
+
+			//next line that follows is going through list
+			data.forEach(function(legislator){
+
+				var leg_bday = moment(legislator.DOB).tz("America/New_York");
+
+				if(leg_bday.month() == i-1){
+					birthdays.push({
+						date: today.year() + "-" + (leg_bday.month() + 1) + "-" + leg_bday.date(),
+						title: legislator.Name + "'s birthday"
+					});
+				}
+						
+			});
+
+			console.log(birthdays)
+
+			$(calendar).clndr({
+				startWithMonth: today.year() + "-" + i + "-01", 
+				events: birthdays
+			});
+
+		}
+
 		
 		data.forEach(function(legislator){
 			
@@ -32,7 +65,7 @@
 				var chamber = "Sen.";
 			else var chamber = "Rep.";
 
-				$(".birthdays_today ul").append("<li>" + chamber + " <span>" + legislator.Name + "</span> (" + legislator.Region + ") <div class='party_bug_" + party_abbrev + "'>" + party_abbrev + "</div>" + " is turning " + (today.year() - legislator_birthday.year()) + "</li>");
+				$(".birthdays_today ul").append("<li>" + chamber + " <span>" + legislator.Name + "</span>, " + legislator.Region + " <div class='party_bug_" + party_abbrev + "'>" + party_abbrev + "</div>" + " , is turning <span>" + (today.year() - legislator_birthday.year()) + "</span></li>");
 			}
 			
 		});

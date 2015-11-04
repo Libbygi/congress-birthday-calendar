@@ -2,27 +2,18 @@
 
 body {
 	font-family: Roboto;
-	color: #404040;
+	color: #505050;
 	margin: 0;
 	padding: 0;
 	font-weight: 400;
 	font-size: 12pt;
 }
 
-ul{
-	list-style-type: none;
-	list-style-position: inside;
-	margin: 10px 0 0 0;
-	padding: 0;
-}
-
 h1{
 	font-size: 40pt;
 	font-weight: 900;
 }
-
-
-.top{
+#container{
 	width: 90%;
 	margin: auto;
 	margin-top: 10px;
@@ -38,15 +29,25 @@ h1{
 
 .birthdays_today {
 	display: inline-block;
-	width: 100%;
+	margin: 22px 0 22px 0;
+	background-color: #f0f0f0;
+	padding: 30px 30px 27px 30px;
+	border-radius: 10px;
 }
 
 .birthdays_today p{
 	font-size: 17pt;
 	font-weight: 400;
-	margin: 15px 0 0 0;
 	padding: 0;
 	text-transform: uppercase;
+	margin: 0 0 20px 0;
+}
+
+.birthdays_today ul{
+	list-style-type: none;
+	list-style-position: inside;
+	margin: 10px 0 0 0;
+	padding: 0;
 }
 
 .birthdays_today li{
@@ -60,7 +61,7 @@ h1{
 
 .party_bug_D{
 	display: inline-block;
-	background-color: #77b5e3;
+	background-color: #336699;
 	padding: 1px 4px 1px 4px;
 	color: #fff;
 	border-radius: 3px;
@@ -70,7 +71,7 @@ h1{
 
 .party_bug_R{
 	display: inline-block;
-	background-color: #fd4b51;
+	background-color: #ec5c4b;
 	padding: 1px 4px 1px 4px;
 	color: #fff;
 	border-radius: 3px;
@@ -80,10 +81,74 @@ h1{
 
 .party_bug_I{
 	display: inline-block;
-	background-color: #fbdc58;
+	background-color: ##fbee28;
 	padding: 1px 4px 1px 4px;
 	color: #fff;
 	border-radius: 3px;
 	font-weight: 500;
 	font-size: 11pt;
+}
+
+.calendars{
+	display: inline-block;
+	margin-top: 20px;
+}
+
+
+.clndr-next-button, .clndr-previous-button{
+	display:none;
+}
+
+
+
+.calendar{
+	display: inline-block;
+	margin: 0 10px 20px 0;
+}
+
+.month{
+	font-weight: 900;
+	font-size: 15pt;
+	text-align: center;
+	text-align: center;
+	margin-bottom: 8px;
+}
+
+.header-day{
+	font-size: 14pt;
+	background-color: #505050;
+	border-right: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	color: #fff;
+}
+
+.clndr-table thead td{
+	padding: 6px 0 6px 0;
+	text-align: center;
+	font-weight: 500;
+}
+
+.day-contents{
+	font-size: 14pt;
+	padding: 6px;
+	font-weight: 300;
+	text-align: center;
+	letter-spacing: -.003em;
+	border-right: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+
+
+.day{
+	background-color: #f0f0f0;
+}
+
+.event{
+	background-color: #9ae0d1;
+}
+
+
+
+.adjacent-month{
+	color: #ddd;
 }
