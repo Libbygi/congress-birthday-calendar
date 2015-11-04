@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+
+<head>
+
+	<script src="bower_components/jquery/dist/jquery.js"></script>
+	
+</head>
+
+<body>
+	
+	<h1>Today is 
+		<span id="date"></span>
+	</h1>
+
+
+
+	
+</body>
+
+<script>
+//	$("#date").html();
+	
+	var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+	today = new Date();
+	
+	$("#date").html(days[today.getDay()]);
+
+	
+</script>
+
+</html>
