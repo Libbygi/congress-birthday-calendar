@@ -1,16 +1,17 @@
 //	$("#date").html();
 	
+	if(getParameterByName("date") == "")
+		var today = new moment().tz("America/New_York");	
+	else 
+		var today = new moment(getParameterByName("date")).tz("America/New_York");	
 
-	
-	
-	var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
-
-
-
-	var today = new moment().tz("America/New_York");	
 	$("#date").html(today.format("MMM. YYYY"));
 
 	$(".birthdays_today span").html(today.format("MMM. Do"))
+
+	$(".today_button").click(function(){
+			window.location = "/"
+	})
 
 	$.getJSON("data.json", function(data){
 		
@@ -39,21 +40,28 @@
 						
 			});
 
-			console.log(birthdays)
-
 			$(calendar).clndr({
 				startWithMonth: today.year() + "-" + i + "-01", 
-				events: birthdays
+				events: birthdays,
+				clickEvents: {
+					click: function(target){
+						console.log(target);
+						window.location = "/?date=" + target.date.format("YYYY-MM-DD")
+					}
+				}
 			});
 
 		}
 
-		
+		var are_birthdays = false;
+
+		// This adds legislator birthdays to the opening greeting
 		data.forEach(function(legislator){
 			
-			var legislator_birthday = new moment(legislator.DOB);
+			var legislator_birthday = new moment(legislator.DOB).tz("America/New_York");
 			
 			if( legislator_birthday.month() == today.month() && legislator_birthday.date() == today.date() ){
+				are_birthdays = true;
 				
 			if (legislator.Party == "Democratic")
 					var party_abbrev = "D";
@@ -65,14 +73,23 @@
 				var chamber = "Sen.";
 			else var chamber = "Rep.";
 
-				$(".birthdays_today ul").append("<li>" + chamber + " <span>" + legislator.Name + "</span>, " + legislator.Region + " <div class='party_bug_" + party_abbrev + "'>" + party_abbrev + "</div>" + " , is turning <span>" + (today.year() - legislator_birthday.year()) + "</span></li>");
+				$(".birthdays_today ul").append("<li>" + chamber + " <span>" + legislator.Name + "</span> (" + legislator.Region + " <div class='party_bug_" + party_abbrev + "'>" + party_abbrev + "</div>" + " ) is turning <span>" + (today.year() - legislator_birthday.year()) + "</span></li>");
 			}
-			
 		});
 		
+		if (are_birthdays == false)
+			$(".birthdays_today ul").append("No birthdays on this day")
 		
 		// Print the first dude's name
 		// $("#date").html(data[0].Name);
 		
 	});
+
+//get parameter from URL
+function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
 	

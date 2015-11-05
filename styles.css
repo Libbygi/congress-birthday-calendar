@@ -90,10 +90,14 @@ h1{
 	font-size: 11pt;
 }
 
-.outer_calendars{
-	margin: auto;
+.today_button{
+	background-color: #f0f0f0;
 	display: inline-block;
-	width: 100%;
+	padding: 10px 10px 10px 10px;
+	border-radius: 10px;
+	float: right;
+	margin: 22px 0 0 0;
+	cursor: pointer;
 }
 
 .calendars{
@@ -152,6 +156,7 @@ h1{
 
 .event{
 	background-color: #9ae0d1;
+	cursor: pointer;
 }
 
 
@@ -208,6 +213,11 @@ h1{
 	}
 .clndr-table, .clndr, .calendar{
 	width: 100%;
+}
+
+.today_button{
+	margin: 0 0 10px 0;
+	float: none;
 }
 
 }
