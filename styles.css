@@ -9,11 +9,6 @@ body {
 	font-size: 12pt;
 }
 
-h1{
-	font-size: 40pt;
-	font-weight: 900;
-}
-
 
 #container{
 	width: 90%;
@@ -29,12 +24,22 @@ h1{
 	margin: 0;
 }
 
+.header h1{
+	font-size: 40pt;
+	font-weight: 900;
+	cursor: pointer;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+}
+
 .birthdays_today {
 	display: inline-block;
-	margin: 22px 0 22px 0;
+	margin: 22px 10px 22px 0;
 	background-color: #f0f0f0;
 	padding: 30px 30px 27px 30px;
 	border-radius: 10px;
+	float: left;
 }
 
 .birthdays_today p{
@@ -57,6 +62,10 @@ h1{
 }
 
 .birthdays_today span{
+	font-weight: 900;
+}
+
+.today_button span{
 	font-weight: 900;
 }
 
@@ -88,6 +97,7 @@ h1{
 	border-radius: 3px;
 	font-weight: 500;
 	font-size: 11pt;
+	vertical-align: top;
 }
 
 .today_button{
@@ -95,9 +105,9 @@ h1{
 	display: inline-block;
 	padding: 10px 10px 10px 10px;
 	border-radius: 10px;
-	float: right;
 	margin: 22px 0 0 0;
 	cursor: pointer;
+	float: left;
 }
 
 .calendars{
@@ -166,15 +176,16 @@ h1{
 }
 
 #footer{
-	background-color: #505050;
 	width: 100%;
 	height: 30px;
 	margin-top: 10px;
 	display: inline-block;
+	border-top: 1px solid #999;
+	padding: 10px 0 10px 0;
 }
 
 #footer img{
-	height: 20px;
+	height: 23px;
 	margin: 5px 8px 0 5px;
 	width: auto;
 	display: inline-block;
@@ -183,7 +194,7 @@ h1{
 
 #footer p{
 	font-weight: 300;
-	color: #ffffff;
+	color: #999;
 	display: inline-block;
 	font-size: 12pt;
 	line-height: 0;
@@ -193,8 +204,9 @@ h1{
 }
 
 #footer a{
-	color: #fff;
+	color: #999;
 	text-decoration: none;
+	margin-top: 50px;
 }
 
 #footer span{
@@ -202,9 +214,13 @@ h1{
 }
 
 #footer a span{
-	font-weight: 400;
-	padding-top: 5px;
+	font-weight: 300;
 	display: inline-block;
+	padding-top: 50px;
+}
+
+.hide{
+	display: none;
 }
 
 @media screen and (max-width: 550px) {
@@ -216,7 +232,7 @@ h1{
 }
 
 .today_button{
-	margin: 0 0 10px 0;
+	margin: 0 0 0px 0;
 	float: none;
 }
 

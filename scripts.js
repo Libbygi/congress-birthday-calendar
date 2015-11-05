@@ -13,6 +13,10 @@
 			window.location = "/"
 	})
 
+	$("h1").click(function(){
+			window.location = "/"
+	})
+
 	$.getJSON("data.json", function(data){
 		
 		console.log("Got data!");		
@@ -79,7 +83,8 @@
 		
 		if (are_birthdays == false)
 			$(".birthdays_today ul").append("No birthdays on this day")
-		
+
+
 		// Print the first dude's name
 		// $("#date").html(data[0].Name);
 		
