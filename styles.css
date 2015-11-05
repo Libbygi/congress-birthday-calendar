@@ -202,10 +202,12 @@ h1{
 	display: inline-block;
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 550px) {
 #footer a span{
 	display: none;
 	}
-
+.clndr-table, .clndr, .calendar{
+	width: 100%;
+}
 
 }
