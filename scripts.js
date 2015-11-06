@@ -20,43 +20,7 @@
 	$.getJSON("data.json", function(data){
 		
 		console.log("Got data!");		
-
-		for(i=1; i<=12; i++){
-			calendar = $('<div class="calendar"></div>').appendTo($(".calendars"));
-
-			//At every month, going through member list to see who has bdays in that month
-
-			//[] that's an empty array
 		
-			var birthdays = [];
-
-			//next line that follows is going through list
-			data.forEach(function(legislator){
-
-				var leg_bday = moment(legislator.DOB).tz("America/New_York");
-
-				if(leg_bday.month() == i-1){
-					birthdays.push({
-						date: today.year() + "-" + (leg_bday.month() + 1) + "-" + leg_bday.date(),
-						title: legislator.Name + "'s birthday"
-					});
-				}
-						
-			});
-
-			$(calendar).clndr({
-				startWithMonth: today.year() + "-" + i + "-01", 
-				events: birthdays,
-				clickEvents: {
-					click: function(target){
-						console.log(target);
-						window.location = "/?date=" + target.date.format("YYYY-MM-DD")
-					}
-				}
-			});
-
-		}
-
 		var are_birthdays = false;
 
 		// This adds legislator birthdays to the opening greeting
@@ -87,6 +51,55 @@
 
 		// Print the first dude's name
 		// $("#date").html(data[0].Name);
+		
+
+		for(i=1; i<=12; i++){
+			calendar = $('<div class="calendar"></div>').appendTo($(".calendars"));
+
+			//At every month, going through member list to see who has bdays in that month
+
+			//[] that's an empty array
+		
+			var birthdays = [];
+
+			//next line that follows is going through list
+			data.forEach(function(legislator){
+
+				var leg_bday = moment(legislator.DOB).tz("America/New_York");
+
+				if(leg_bday.month() == i-1){
+					
+					if(leg_bday.month() + 1 >= 10)
+						var month = leg_bday.month() + 1;
+					else
+						var month = "0" + (leg_bday.month() + 1);
+		
+					birthdays.push({
+						date: today.year() + "-" + month + "-" + leg_bday.date(),
+						title: legislator.Name + "'s birthday"
+					});
+				}
+						
+			});
+
+			if(i >= 10)
+				var month = i;
+			else
+				var month = "0" + i;
+			
+			$(calendar).clndr({
+				startWithMonth: (today.year() + "-" + month + "-01"), 
+				events: birthdays,
+				clickEvents: {
+					click: function(target){
+						console.log(target);
+						window.location = "/?date=" + target.date.format("YYYY-MM-DD")
+					}
+				}
+			});
+
+		}
+
 		
 	});
 
