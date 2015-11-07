@@ -17,6 +17,9 @@
 			window.location = "/"
 	})
 
+	if(getParameterByName("date") == "")
+		$(".today_button").addClass("hide");
+
 	$.getJSON("data.json", function(data){
 		
 		console.log("Got data!");		
