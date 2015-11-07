@@ -9,7 +9,6 @@ body {
 	font-size: 12pt;
 }
 
-
 #container{
 	width: 90%;
 	margin: auto;
@@ -18,15 +17,14 @@ body {
 
 .header{
 	width: 100%;
-	padding-bottom: 10px;
+	padding: 5px 0 15px 0;
 	border-bottom: 1px solid #aaa;
 	display: inline-block;
 	margin: 0;
 }
 
-
 .header h1{
-	font-size: 40pt;
+	font-size: 45pt;
 	font-weight: 900;
 	cursor: pointer;
 	margin: 0;
@@ -121,8 +119,6 @@ body {
 .clndr-next-button, .clndr-previous-button{
 	display:none;
 }
-
-
 
 .calendar{
 	display: inline-block;
@@ -224,6 +220,18 @@ body {
 }
 
 @media screen and (max-width: 550px) {
+.header{
+	padding: 0 0 10px 0;
+}
+
+.header h1{
+	font-size: 40pt;
+}
+
+.birthdays_today {
+	margin-bottom: 10px;
+}
+
 #footer{
 	display: none;
 	}
