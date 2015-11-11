@@ -17,6 +17,10 @@
 			window.location = "/"
 	})
 
+	$("#cake img").click(function(){
+			window.location = "/"
+	})
+
 	if(getParameterByName("date") == "")
 		$(".today_button").addClass("hide");
 

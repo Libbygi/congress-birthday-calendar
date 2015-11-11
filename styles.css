@@ -12,31 +12,42 @@ body {
 #container{
 	width: 90%;
 	margin: auto;
-	margin-top: 10px;
+	margin-top: 15px;
 }
 
 .header{
 	width: 100%;
 	padding: 5px 0 15px 0;
-	border-bottom: 1px solid #aaa;
 	display: inline-block;
 	margin: 0;
 }
 
 .header h1{
-	font-size: 45pt;
+	float: left;
+	font-size: 47pt;
 	font-weight: 900;
 	cursor: pointer;
+	padding: 18px 0 0 0;
 	margin: 0;
-	padding: 0;
 	display: inline-block;
 	line-height: 40pt;
 }
 
+#cake{
+	margin: 0 15px 0 0;
+	display: inline-block;
+	float: left;
+}
+
+#cake img{
+	width: 87px;
+	cursor: pointer;
+}
+
 .birthdays_today {
 	display: inline-block;
-	margin: 22px 10px 22px 0;
-	background-color: #f0f0f0;
+	margin: 0px 10px 22px 0;
+	background-color: #e3e3e3;
 	padding: 30px 30px 27px 30px;
 	border-radius: 10px;
 	float: left;
@@ -91,7 +102,7 @@ body {
 
 .party_bug_I{
 	display: inline-block;
-	background-color: ##fbee28;
+	background-color: #fbee28;
 	padding: 1px 4px 1px 4px;
 	color: #fff;
 	border-radius: 3px;
@@ -101,13 +112,18 @@ body {
 }
 
 .today_button{
+	/*border: #ddd solid 1px;*/
 	background-color: #f0f0f0;
 	display: inline-block;
 	padding: 10px 10px 10px 10px;
 	border-radius: 10px;
-	margin: 22px 0 0 0;
+	margin: 0 0 0 0;
 	cursor: pointer;
 	float: left;
+}
+
+.today_button:hover{
+	background-color: #e5e5e5;
 }
 
 .calendars{
@@ -156,7 +172,6 @@ body {
 	border-right: 1px solid #fff;
 	border-bottom: 1px solid #fff;
 }
-
 
 .day{
 	background-color: #f0f0f0;
@@ -219,17 +234,61 @@ body {
 	display: none;
 }
 
+
+@media screen and (max-width: 757px) {
+.birthdays_today{
+	margin: 0 0 10px 0;
+	padding: 20px 5% 10px 5%;
+}
+
+.today_button{
+	margin: 0 0 10px 0;
+	padding: 10px 3% 10px 3%;
+	float: none;
+}
+
+.birthdays_today p{
+	font-size: 14pt;
+}
+
+.birthdays_today li{
+	margin-bottom: 10px;
+}
+
+body{
+	font-size: 12pt;
+}
+
+}
+
+
+
 @media screen and (max-width: 550px) {
+.birthdays_today{
+	width: 90%;
+}
+
+.today_button{
+	width: 94%;
+}
+
 .header{
-	padding: 0 0 10px 0;
+	padding: 0 0 10px 4px;
 }
 
 .header h1{
-	font-size: 40pt;
+	font-size: 30pt;
+	padding-top: 5px;
+	margin-bottom: 0;
 }
 
-.birthdays_today {
-	margin-bottom: 10px;
+#cake img{
+	width: 58px;
+}
+
+#cake{
+	margin-right: 10px;
+	cursor: pointer;
 }
 
 #footer{
@@ -258,9 +317,5 @@ body {
 	width: 100%;
 }
 
-.today_button{
-	margin: 0 0 0px 0;
-	float: none;
-}
 
 }
