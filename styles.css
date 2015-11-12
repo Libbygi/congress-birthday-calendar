@@ -1,3 +1,4 @@
+
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,900,700,500,300);
 
 body {
@@ -277,13 +278,13 @@ body{
 }
 
 .header h1{
-	font-size: 30pt;
+	font-size: 25pt;
 	padding-top: 5px;
 	margin-bottom: 0;
 }
 
 #cake img{
-	width: 58px;
+	width: 49px;
 }
 
 #cake{

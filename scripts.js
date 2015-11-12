@@ -3,7 +3,7 @@
 	if(getParameterByName("date") == "")
 		var today = new moment().tz("America/New_York");	
 	else 
-		var today = new moment(getParameterByName("date")).tz("America/New_York");	
+		var today = new moment(new Date(getParameterByName("date"))).tz("America/New_York");	
 
 	$("#date").html(today.format("MMM. YYYY"));
 
@@ -33,7 +33,7 @@
 		// This adds legislator birthdays to the opening greeting
 		data.forEach(function(legislator){
 			
-			var legislator_birthday = new moment(legislator.DOB).tz("America/New_York");
+			var legislator_birthday = new moment(new Date(legislator.DOB)).tz("America/New_York");
 			
 			if( legislator_birthday.month() == today.month() && legislator_birthday.date() == today.date() ){
 				are_birthdays = true;
@@ -72,7 +72,7 @@
 			//next line that follows is going through list
 			data.forEach(function(legislator){
 
-				var leg_bday = moment(legislator.DOB).tz("America/New_York");
+				var leg_bday = moment(new Date(legislator.DOB)).tz("America/New_York");
 
 				if(leg_bday.month() == i-1){
 					
